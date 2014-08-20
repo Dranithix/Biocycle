@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="150" height="15" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" source="spikes.tsx"/>
+ <tileset firstgid="4" source="tilesheet.tsx"/>
+ <layer name="PLATFORMS" width="150" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2X6w6DIAyF+TF17vr+b7sS04w1Yqggrdn5kqaOuVjo8TBCAAAAAAAA/8yFYqAYKSbjWgAAfcH774Mz9GFQ3HulmCluFPdjyqmC15vXPM1yTPbjDL1ivPch8lTc62k+UkNRC1wf1xjjQfEKyzzT/O5f8i7W9J7rg8YjPGGlq1INzSK3qtHSy9bWfKsP7MkM1x2CX9310FWJhuR1Llt7qpZSb7LcN6RmmbR27TvYej57fajkuzPqqlRDFro60uvkfNY0Wppba+jIfTBHzf5Y400tdMXPn8TnUYzX6mkIv96xpQPNXrQna3+TG/PsVzUa8nR+akE8W8lzledsfebb+s8BXX35AMoF6qAoIwAA
+  </data>
+ </layer>
+ <layer name="SPIKES" width="150" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3VXQuAIAyF4Wn//z93EYKVHy3XgvE+cG4MYunBRAAAAAAAAAAA8JX/HgAhtXqVO+v4TpJjzzfDZ156HbpKcp63jtd35E6isu5VWfeg6VWZNcm9Z3XfLGbSJCrvXr3t3dMOzXrVisWdpe1T9G6VPfXO6AxXOjT6D1qldfetvGdmB8UhXREoIwAA
+  </data>
+ </layer>
+ <layer name="PLAYER" width="150" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3OMQkAAAwDsF7zL3kySiFRkARgx7UDAAAAAAAAAMx6mcDvpSgjAAA=
+  </data>
+ </layer>
+ <layer name="TOXIC" width="150" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3V2xGAIAwEQH7tv2EbQBkfEAi7FVxyQygFAADyOqIDJFbb7d2+W13oaj87d77z7G89vTlRZsxUc5Vzlfz0MXv/o/OtcnfoS+f/+LLH6A5G/pnRswJt3ilADid6yjzbKCMAAA==
+  </data>
+ </layer>
+</map>

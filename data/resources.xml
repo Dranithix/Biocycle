@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+     possible resource settings are valid, transparentColor is optional <sound 
+	key="" file="" /> <music key="" file="" /> <image key="" file="" transparentColor=""/> 
+	<sheet key="" file="" width="" height="" transparentColor=""/> <angelcodefont 
+	key="" fontFile="" imageFile=""/> <int key="" value=""> <float key="" value=""> 
+	<string key="" value="">
+-->
+
+<resources>
+
+    <!-- basedir -->
+    <basedir path="data" />
+    <!-- sounds -->
+    <sound key="jump" file="jump.ogg" />
+    <sound key="explode" file="explode.ogg" />
+    <!-- songs -->
+    <music key="background" file="Background.ogg" />
+    <!-- images -->
+    <image file="parallax/spaceBackground.png" key="background" />
+    <image file="hud/base.png" key="hudBase" />
+    <image file="hud/healthBar.png" key="healthBar" />
+    <image file="object/diagram.png" key="diagram" />
+    <!-- sheets -->
+    <sheet file="robot/toxic/toxic_slide.png" height="140" key="toxicSlide" width="125" />
+    <sheet file="robot/toxic/toxic_run.png" height="125" key="toxicWalk" width="140" />
+    <sheet file="object/toxic.png" height="40" key="toxic" width="40" />
+    <!-- fonts -->
+    <angelcodefont fontFile="font.fnt" imageFile="font.png" key="font" />
+    <!-- Tiled map -->
+    <map file="map/1.tmx" key="level1" />
+    <map file="map/2.tmx" key="level2" />
+    <map file="map/3.tmx" key="level3" />
+	<map file="map/4.tmx" key="level4" />
+	<map file="map/5.tmx" key="level5" />
+	<map file="map/main.tmx" key="main" />
+</resources>

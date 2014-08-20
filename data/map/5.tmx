@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="120" height="15" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" source="spikes.tsx"/>
+ <tileset firstgid="4" source="tilesheet.tsx"/>
+ <layer name="PLATFORMS" width="120" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2XUQvDIAyE81Dn1v3//7s8rNCJ2KiJ3mw+uIeC4HnxkBI5juPYsLEC68GKk704+jxZL9bOek/28o8g9SPnxXq+4aQVQe+HpT/NmSL15EwuvxFepXtozjfQ+n1NuXN/e5DcT4ROj8iv55w9/rbvfpHu09cU1H4cIPhD6GEr2vlpZ9HiD7mrtfn05inNb9YdHt1fpK6mXiznK9nfgit/kX7f2VVIsz3OWAvC+1YC3Z8WuXmWvqVr0fOb9X++Ch/hw3FMIBwAAA==
+  </data>
+ </layer>
+ <layer name="PLAYER" width="120" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3BIQEAAAACIIP/NztEoAEAAAAAAABeDLcyuOkgHAAA
+  </data>
+ </layer>
+ <layer name="TOXIC" width="120" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3UsQ0AIQxDUVr2X5gSiQYRQSyH/xZwnAvXGpCjqwdAabfuy+VOXeaMqNwtm3qXynx1d8Tx7VCR+q7V+cCJ7Htd89Tv5UW+uhMAL/wzpt93sevvvh/3+YEbBnxC41sgHAAA
+  </data>
+ </layer>
+ <layer name="SPIKES" width="120" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2V3QrAIAiFdXv/d143QYhGVratzgdCY3XMTj9EAAAAAABgVzjFleLePCdYAxP83RWmc/1dVbOWZ0Xu0tcT/c3sWLt2bkdqZPrfXTBznh6t6PWxvOjNKXVO8LllzOr65X3s8VfuCW289v1lf2vzi/A8cj00b+W769mPOSzdso/lfwRXkK7GaC2z1qLmQc2z2lnNQcZ/j+4bZ9yaa+t9ZLU9fb21ezVH263RMqZH15P/AeHYP+UgHAAA
+  </data>
+ </layer>
+</map>

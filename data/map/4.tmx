@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="120" height="15" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" source="tilesheet.tsx"/>
+ <tileset firstgid="13" source="spikes.tsx"/>
+ <layer name="PLATFORMS" width="120" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3TwQrAIAiA4Wp7/2fODl5iVILODv8HMmQjJV0pAAAAAACsVYkm8Ui8yb0AXthrRJl3y3vX2F273Z1l3OmfNbVORu2V3b9y2mfmfKPO/jrTWku/jXrqjKxzJL83n9/d0he5fz6iA9cH/LsgHAAA
+  </data>
+ </layer>
+ <layer name="SPIKES" width="120" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3UMQoAIAgF0C5Q3f+20dBWNIjU8B78TVAHLQUAAAAA8vRgfvPjTBBRH/TMvKMX+yxZP25XN/dsh/hTwM0AErGhQiAcAAA=
+  </data>
+ </layer>
+ <layer name="PLAYER" width="120" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3OMQkAAAwDsD7zb3kySiFRkAQAAABg37UDAAAw4gHpuPoeIBwAAA==
+  </data>
+ </layer>
+ <layer name="TOXIC" width="120" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3UQQrAIAxFQbfe/8K9gLbYij/QGXCdBwm2BgAAAOzU0wEDo6aKnZz39TbSd7Q6P937pHrf38z2kfhT+4EZd3PfvrQKDQAVXesHBpEgHAAA
+  </data>
+ </layer>
+</map>
